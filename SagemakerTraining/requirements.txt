@@ -1,0 +1,7 @@
+pip~=24.2
+sagemaker
+scikit-learn
+pandas
+numpy
+ipykernel
+jupyter
